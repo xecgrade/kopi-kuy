@@ -1,0 +1,92 @@
+{
+    "cappuchino": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Cappuchino Bekasibica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Cappuchino Bogorica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://wallpapercave.com/wp/wp3631965.jpg",
+            "nama": "Cappuchino Jakartarica",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ],
+    "expresso": [
+        {
+            "foto": "https://detoxinista.com/wp-content/uploads/2018/06/coffee-smoothie-1-1141x1536.jpg",
+            "nama": "Expresso Machiato",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.keurig.com/Beverages/Paris-Cafe-Coffee/p/Global-Favorites-Paris-Cafe-Bag-McCafe"
+        },
+        {
+            "foto": "https://biohackgroup.com/wp-content/uploads/2020/06/bulletproof-coffee-2600-scaled.jpg",
+            "nama": "Expresso Latte",
+            "size": "300 Gram",
+            "harga": "900.000",
+            "link": "https://www.keurig.com/Beverages/Dark-Roast/Espresso-Style-Coffee/p/espresso-style-coffee-cafe-bustelo-k-cup"
+        },
+        {
+            "foto": "https://www.thespruceeats.com/thmb/ahZ9xEv4EUtzmyHauN4GmmHByUY=/2121x1414/filters:fill(auto,1)/GettyImages-105653120-5c8e6299c9e77c0001a92684.jpg",
+            "nama": "Expresso Roast Coffe",
+            "size": "250 Gram",
+            "harga": "750.000",
+            "link": "https://www.keurig.com/Beverages/Dark-Roast/Espresso-Roast-Coffee/p/Espresso-Roast-Coffee-K-Cup-BPC"
+        },
+        {
+            "foto": "https://easternshorecoffee.com/wp-content/uploads/2018/10/espresso-bg.jpg",
+            "nama": "Expresso Classico",
+            "size": "150 Gram",
+            "harga": "500.000",
+            "link": "https://www.keurig.com/Beverages/Medium-Roast/Classico-Coffee/p/classico-coffee-lavazza-k-cup"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://cdn.timesmedia.co.id/images/2018/10/13/es-doger.jpg",
+            "nama": "Es Doger Gils",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://shopee.co.id/search?keyword=es%20doger%20terdekat"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2022/02/es-bandung-tanpa-susu.jpg",
+            "nama": "Es Gaul Cuy",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://gofood.co.id/jakarta/restaurant/es-gaul-h-salim-bogortengah-tegallega-malabar-8c6dc289-8d93-4ec0-a6da-eecf92ac69e4"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2022/02/cendol-dari-nol.jpg",
+            "nama": "Es Cendol Candul",
+            "size": "250 Gram",
+            "harga": "1.000.000",
+            "link": "https://gofood.co.id/jakarta/restaurant/es-cendol-durian-bekasi-selatan-161e16bc-919c-45bd-bf8a-c9a2b20ad8c1"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2022/02/korean-strawberry-milk.jpg",
+            "nama": "Es Korean Tangsel",
+            "size": "350 Gram",
+            "harga": "5.000.000",
+            "link": "https://cookpad.com/id/resep/12375682-korean-strawberry-milk-latte"
+        }
+    ]
+}
